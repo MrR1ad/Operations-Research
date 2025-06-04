@@ -1,0 +1,1400 @@
+{
+  "AID101": {
+    "name": "Fundamentals of Data Science",
+    "sessions": 1,
+    "enrollment": 38,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "AID304": {
+    "name": "Big Data Analytics",
+    "sessions": 1,
+    "enrollment": 32,
+    "time": ["Thu 14:00-16:50"]
+  },
+  "ARCH100": {
+    "name": "Introduction to Architectural Design",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "ARCH101": {
+    "name": "Basic Design Communication",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "ARCH102": {
+    "name": "History of Architecture I",
+    "sessions": 1,
+    "enrollment": 59,
+    "time": ["Wed 12:00-12:50"]
+  },
+  "ARCH106": {
+    "name": "Introduction to Building Technology",
+    "sessions": 1,
+    "enrollment": 46,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "ARCH107": {
+    "name": "Understanding Art and Architecture",
+    "sessions": 1,
+    "enrollment": 31,
+    "time": ["Mon 10:00-11:50"]
+  },
+  "ARCH108": {
+    "name": "Introduction to Architectural Design II",
+    "sessions": 2,
+    "enrollment": 41,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "ARCH109": {
+    "name": "Basic Design Communication II",
+    "sessions": 2,
+    "enrollment": 42,
+    "time": ["Mon 13:00-14:50"]
+  },
+  "ARCH110": {
+    "name": "Freehand Drawing",
+    "sessions": 1,
+    "enrollment": 17,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "ARCH201": {
+    "name": "Architectural Design Studio I",
+    "sessions": 2,
+    "enrollment": 19,
+    "time": ["Tue 09:00-14:50"]
+  },
+  "ARCH202": {
+    "name": "Architectural Design Studio II",
+    "sessions": 3,
+    "enrollment": 43,
+    "time": ["Tue 09:00-14:50"]
+  },
+  "ARCH208": {
+    "name": "Architectural Communication",
+    "sessions": 2,
+    "enrollment": 63,
+    "time": ["Thu 09:00-11:50", "Thu 12:00-14:50"]
+  },
+  "ARCH209": {
+    "name": "History of Architecture III",
+    "sessions": 1,
+    "enrollment": 54,
+    "time": ["Mon 13:00-14:50"]
+  },
+  "ARCH210": {
+    "name": "Structural Design II",
+    "sessions": 1,
+    "enrollment": 43,
+    "time": ["Mon 09:00-10:50"]
+  },
+  "ARCH211": {
+    "name": "Building Services II",
+    "sessions": 1,
+    "enrollment": 35,
+    "time": ["Thu 09:00-10:50"]
+  },
+  "ARCH216": {
+    "name": "Introduction to CAD",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Fri 10:00-11:50"]
+  },
+  "ARCH303": {
+    "name": "Architectural Design Studio III",
+    "sessions": 2,
+    "enrollment": 27,
+    "time": ["Wed 09:00-14:50"]
+  },
+  "ARCH304": {
+    "name": "Architectural Design Studio IV",
+    "sessions": 2,
+    "enrollment": 23,
+    "time": ["Wed 09:00-14:50"]
+  },
+  "ARCH307": {
+    "name": "Sustainable Design",
+    "sessions": 1,
+    "enrollment": 44,
+    "time": ["Fri 09:00-10:50"]
+  },
+  "ARCH308": {
+    "name": "Urban History",
+    "sessions": 1,
+    "enrollment": 39,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "ARCH311": {
+    "name": "Materials in Architecture",
+    "sessions": 2,
+    "enrollment": 4,
+    "time": ["Mon 13:00-14:50"]
+  },
+  "ARCH357": {
+    "name": "Bosnian Architecture",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "ARCH358": {
+    "name": "Building Constructions II",
+    "sessions": 1,
+    "enrollment": 22,
+    "time": ["Mon 13:00-14:50"]
+  },
+  "ARCH360": {
+    "name": "Digital Architecture and Fabrication",
+    "sessions": 1,
+    "enrollment": 36,
+    "time": ["Fri 14:00-15:50"]
+  },
+  "ARCH380": {
+    "name": "Work placement/Internship",
+    "sessions": 1,
+    "enrollment": 16,
+    "time": ["Wed 12:00-13:50"]
+  },
+  "ARCH403": {
+    "name": "Management in Architecture",
+    "sessions": 1,
+    "enrollment": 31,
+    "time": ["Mon 11:00-12:50"]
+  },
+  "ARCH405": {
+    "name": "Architectural Design Studio V",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Tue 09:00-14:50"]
+  },
+  "ARCH406": {
+    "name": "Final Design Studio",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Tue 09:00-14:50"]
+  },
+  "ARCH412": {
+    "name": "Advanced Building Construction",
+    "sessions": 1,
+    "enrollment": 17,
+    "time": ["Mon 13:00-14:50"]
+  },
+  "ARCH414": {
+    "name": "Introduction to Islamic Architecture",
+    "sessions": 1,
+    "enrollment": 24,
+    "time": ["Thu 11:00-12:50"]
+  },
+  "BIO305": {
+    "name": "Biochemistry II",
+    "sessions": 1,
+    "enrollment": 16,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "BIO306": {
+    "name": "General Microbiology",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "BIO312": {
+    "name": "Techniques in Molecular Biology",
+    "sessions": 1,
+    "enrollment": 13,
+    "time": ["Mon 09:00-10:50"]
+  },
+  "BIO404": {
+    "name": "Agricultural Biotechnology",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "BIO407": {
+    "name": "Protein Engineering",
+    "sessions": 1,
+    "enrollment": 7,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "BIO424": {
+    "name": "Introduction to Forensic Science",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "BOS111": {
+    "name": "Spoken Bosnian I",
+    "sessions": 2,
+    "enrollment": 124,
+    "time": ["Mon 10:00-11:50", "Mon 13:00-14:50"]
+  },
+  "BOS112": {
+    "name": "Spoken Bosnian II",
+    "sessions": 3,
+    "enrollment": 127,
+    "time": ["Tue 14:00-15:50", "Mon 10:00-11:50", "Mon 13:00-14:50"]
+  },
+  "CS103": {
+    "name": "Intro to Programming",
+    "sessions": 2,
+    "enrollment": 220,
+    "time": ["Mon 15:00-17:50", "Tue 13:00-15:50"]
+  },
+  "CS105": {
+    "name": "Advanced Programming",
+    "sessions": 2,
+    "enrollment": 176,
+    "time": ["Wed 11:00-13:50", "Tue 15:00-17:50"]
+  },
+  "CS207": {
+    "name": "Analysis of Algorithms",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "CS303": {
+    "name": "Digital Design",
+    "sessions": 1,
+    "enrollment": 26,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "CS304": {
+    "name": "Computer Architecture",
+    "sessions": 1,
+    "enrollment": 127,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "CS306": {
+    "name": "Database Management",
+    "sessions": 1,
+    "enrollment": 140,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "CS308": {
+    "name": "Software Engineering",
+    "sessions": 1,
+    "enrollment": 100,
+    "time": ["Mon 16:00-18:50"]
+  },
+  "CS310": {
+    "name": "Human Computer Interaction",
+    "sessions": 1,
+    "enrollment": 91,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "CS314": {
+    "name": "Systems Programming",
+    "sessions": 1,
+    "enrollment": 40,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "CS404": {
+    "name": "Artificial Intelligence",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "CS413": {
+    "name": "Developing the Interactive Web",
+    "sessions": 1,
+    "enrollment": 23,
+    "time": ["Wed 16:00-18:50"]
+  },
+  "CS417": {
+    "name": "Introduction to Data Mining",
+    "sessions": 1,
+    "enrollment": 27,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "CS427": {
+    "name": "Computer and Network Security",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "CULT101": {
+    "name": "Understanding Cultural Encounters",
+    "sessions": 2,
+    "enrollment": 82,
+    "time": ["Tue 09:00-10:50", "Tue 11:00-12:50"]
+  },
+  "ECON108": {
+    "name": "MATLAB",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "ECON112": {
+    "name": "Introduction to Macroeconomics",
+    "sessions": 2,
+    "enrollment": 147,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "ECON202": {
+    "name": "Intermediate Macroeconomics",
+    "sessions": 2,
+    "enrollment": 66,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "ECON204": {
+    "name": "International Political Economy",
+    "sessions": 1,
+    "enrollment": 36,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "ECON221": {
+    "name": "Business Statistics II",
+    "sessions": 2,
+    "enrollment": 51,
+    "time": ["Tue 13:00-15:50"]
+  },
+  "ECON311": {
+    "name": "Special Topics in Economics",
+    "sessions": 1,
+    "enrollment": 17,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "ECON320": {
+    "name": "Public Economics",
+    "sessions": 1,
+    "enrollment": 5,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "ECON404": {
+    "name": "International Monetary System",
+    "sessions": 1,
+    "enrollment": 8,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "ECON430": {
+    "name": "Growth and Development",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "EDU102": {
+    "name": "Introduction to Pedagogy",
+    "sessions": 1,
+    "enrollment": 3,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "EDU103": {
+    "name": "Introduction to Foreign Language Pedagogy",
+    "sessions": 1,
+    "enrollment": 52,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "EDU323": {
+    "name": "Didactics",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "EE301": {
+    "name": "Analog Electronics II",
+    "sessions": 1,
+    "enrollment": 12,
+    "time": ["Thu 17:00-19:50"]
+  },
+  "EE305": {
+    "name": "Instrumentation and Measurements",
+    "sessions": 1,
+    "enrollment": 29,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "EE321": {
+    "name": "Electrical Machines",
+    "sessions": 1,
+    "enrollment": 10,
+    "time": ["Tue 13:00-15:50"]
+  },
+  "EE325": {
+    "name": "Embedded Systems",
+    "sessions": 1,
+    "enrollment": 63,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "EE422": {
+    "name": "Power Electronics",
+    "sessions": 1,
+    "enrollment": 7,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "EE429": {
+    "name": "Digital Power System Protection",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "ELIT100": {
+    "name": "Academic English and Effective Communication",
+    "sessions": 7,
+    "enrollment": 170,
+    "time": ["Multiple sessions across Mon-Thu"]
+  },
+  "ELIT103": {
+    "name": "Nonverbal Communication",
+    "sessions": 2,
+    "enrollment": 41,
+    "time": ["Wed 09:00-10:50", "Wed 12:00-13:50"]
+  },
+  "ELIT200": {
+    "name": "Critical Reading and Writing",
+    "sessions": 14,
+    "enrollment": 410,
+    "time": ["Multiple sessions across Mon-Fri"]
+  },
+  "ELIT201": {
+    "name": "Academic Writing",
+    "sessions": 1,
+    "enrollment": 41,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "ELIT203": {
+    "name": "Survey of English Literature II",
+    "sessions": 1,
+    "enrollment": 31,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "ELIT208": {
+    "name": "Classical Mythology",
+    "sessions": 1,
+    "enrollment": 65,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "ELIT401": {
+    "name": "The Romantic Age",
+    "sessions": 1,
+    "enrollment": 5,
+    "time": ["Fri 14:00-16:50"]
+  },
+  "ELIT406": {
+    "name": "Contemporary English Drama",
+    "sessions": 1,
+    "enrollment": 28,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "ELIT413": {
+    "name": "Literary Theory and Criticism II",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "ELIT415": {
+    "name": "Shakespeare",
+    "sessions": 1,
+    "enrollment": 12,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "ELT105": {
+    "name": "Introduction to Linguistics",
+    "sessions": 1,
+    "enrollment": 54,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "ELT212": {
+    "name": "English Syntax",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "ELT322": {
+    "name": "English Language Teaching Methodology",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "ELT323": {
+    "name": "Early Foreign Language Learning",
+    "sessions": 1,
+    "enrollment": 33,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "ELT370": {
+    "name": "Work placement/Internship",
+    "sessions": 1,
+    "enrollment": 1,
+    "time": ["Wed 12:00-13:50"]
+  },
+  "ELT371.1": {
+    "name": "Teaching Practice I",
+    "sessions": 1,
+    "enrollment": 2,
+    "time": ["Thu 09:00-09:50"]
+  },
+  "ELT471.1": {
+    "name": "Teaching Practice II",
+    "sessions": 1,
+    "enrollment": 3,
+    "time": ["Wed 12:00-13:50", "Thu 09:00-09:50"]
+  },
+  "ELT571.1": {
+    "name": "Teaching Practice III",
+    "sessions": 1,
+    "enrollment": 2,
+    "time": ["Wed 12:00-13:50", "Thu 09:00-09:50"]
+  },
+  "ENS201.1": {
+    "name": "Electromagnetism I",
+    "sessions": 1,
+    "enrollment": 17,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "ENS203.1": {
+    "name": "Electrical Circuits I",
+    "sessions": 1,
+    "enrollment": 137,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "ENS204.1": {
+    "name": "Thermodynamics II",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "ENS206.1": {
+    "name": "System Modelling and Control",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "ENS207": {
+    "name": "Engineering Graphics",
+    "sessions": 1,
+    "enrollment": 71,
+    "time": ["Fri 09:00-09:50"]
+  },
+  "ENS209": {
+    "name": "Statics",
+    "sessions": 1,
+    "enrollment": 39,
+    "time": ["Tue 17:00-19:50"]
+  },
+  "ENS211.1": {
+    "name": "Signals and Systems",
+    "sessions": 1,
+    "enrollment": 24,
+    "time": ["Tue 17:00-19:50"]
+  },
+  "ENS309.1": {
+    "name": "Ethics in Engineering and Natural Sciences",
+    "sessions": 1,
+    "enrollment": 153,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "IBF105.1": {
+    "name": "Financial Literacy",
+    "sessions": 1,
+    "enrollment": 48,
+    "time": ["Mon 16:00-17:50"]
+  },
+  "IBF205": {
+    "name": "Principles of International Business",
+    "sessions": 2,
+    "enrollment": 53,
+    "time": ["Wed 11:00-13:50"]
+  },
+  "IBF208": {
+    "name": "Business Finance",
+    "sessions": 2,
+    "enrollment": 35,
+    "time": ["Mon 09:00-11:50", "Mon 15:00-17:50"]
+  },
+  "IBF310.1": {
+    "name": "Business Ethics",
+    "sessions": 1,
+    "enrollment": 49,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "IBF401.1": {
+    "name": "International Finance",
+    "sessions": 1,
+    "enrollment": 31,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "IBF407.1": {
+    "name": "Special Topics in Finance",
+    "sessions": 1,
+    "enrollment": 9,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "IBF409.1": {
+    "name": "Investment and Portfolio Management",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "IBF410.1": {
+    "name": "Real Estate Markets",
+    "sessions": 1,
+    "enrollment": 26,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "IE303.1": {
+    "name": "Operations Research I",
+    "sessions": 1,
+    "enrollment": 76,
+    "time": ["Thu 13:00-15:50"]
+  },
+  "IE305.1": {
+    "name": "Work Analysis and Design",
+    "sessions": 1,
+    "enrollment": 5,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "IE307.1": {
+    "name": "Quality and Reliability Engineering",
+    "sessions": 1,
+    "enrollment": 13,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "IE425.1": {
+    "name": "Computer Aided Design and Manufacturing",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "IR100.1": {
+    "name": "Understanding the Contemporary World through Current Events",
+    "sessions": 1,
+    "enrollment": 70,
+    "time": ["Thu 13:00-14:50"]
+  },
+  "IR101.1": {
+    "name": "Introduction to International Relations",
+    "sessions": 1,
+    "enrollment": 86,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "IR212.1": {
+    "name": "Politics in Europe",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "IR213.1": {
+    "name": "International Issues in the Balkans",
+    "sessions": 1,
+    "enrollment": 13,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "IR214.1": {
+    "name": "International Law",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "IR216.1": {
+    "name": "Foreign Policy Analysis",
+    "sessions": 1,
+    "enrollment": 10,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "IR304.1": {
+    "name": "Security Studies",
+    "sessions": 1,
+    "enrollment": 23,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "IR305.1": {
+    "name": "International Organizations",
+    "sessions": 1,
+    "enrollment": 23,
+    "time": ["Thu 13:00-15:50"]
+  },
+  "IR467.1": {
+    "name": "Energy Security",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "IR472.1": {
+    "name": "Human Rights",
+    "sessions": 1,
+    "enrollment": 10,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "IR478.1": {
+    "name": "Islam in World Politics",
+    "sessions": 1,
+    "enrollment": 8,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "ITA101.1": {
+    "name": "Spoken Italian I",
+    "sessions": 1,
+    "enrollment": 35,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "ITA102.1": {
+    "name": "Spoken Italian II",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Fri 10:00-12:50"]
+  },
+  "LAW104.1": {
+    "name": "Civil Law II",
+    "sessions": 1,
+    "enrollment": 38,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "LAW106.1": {
+    "name": "Roman Law",
+    "sessions": 1,
+    "enrollment": 39,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "LAW118.1": {
+    "name": "Constitutional Law II",
+    "sessions": 1,
+    "enrollment": 43,
+    "time": ["Tue 12:00-15:50"]
+  },
+  "LAW120.1": {
+    "name": "Introduction to Law II",
+    "sessions": 1,
+    "enrollment": 34,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "LAW202.1": {
+    "name": "Administrative Law II",
+    "sessions": 1,
+    "enrollment": 56,
+    "time": ["Wed 17:00-19:50"]
+  },
+  "LAW204.1": {
+    "name": "Contract Law II",
+    "sessions": 1,
+    "enrollment": 45,
+    "time": ["Thu 15:00-18:50"]
+  },
+  "LAW206.1": {
+    "name": "Criminal Law II",
+    "sessions": 1,
+    "enrollment": 36,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "LAW210.1": {
+    "name": "Business Law",
+    "sessions": 1,
+    "enrollment": 46,
+    "time": ["Tue 17:00-20:50"]
+  },
+  "LAW218.1": {
+    "name": "Legal Writing and Drafting",
+    "sessions": 1,
+    "enrollment": 43,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "LAW242.1": {
+    "name": "Law and Literature",
+    "sessions": 1,
+    "enrollment": 38,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "LAW302.1": {
+    "name": "Property Law II",
+    "sessions": 1,
+    "enrollment": 44,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "LAW310.1": {
+    "name": "Intellectual Property Law",
+    "sessions": 1,
+    "enrollment": 46,
+    "time": ["Mon 09:00-12:50"]
+  },
+  "LAW316.1": {
+    "name": "Insurance and Social Security Law",
+    "sessions": 1,
+    "enrollment": 37,
+    "time": ["Wed 12:00-15:50"]
+  },
+  "LAW333.1": {
+    "name": "Tort Law",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "LAW402.1": {
+    "name": "Commercial Law II",
+    "sessions": 1,
+    "enrollment": 20,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "LAW406.1": {
+    "name": "Execution and Bankruptcy Law",
+    "sessions": 1,
+    "enrollment": 20,
+    "time": ["Fri 14:00-17:50"]
+  },
+  "LAW408.1": {
+    "name": "Criminal Procedure Law II",
+    "sessions": 1,
+    "enrollment": 20,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "LAW416.1": {
+    "name": "Inheritance Law",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Mon 15:00-18:50"]
+  },
+  "LAW443.1": {
+    "name": "Legal Ethics",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "LAW533.1": {
+    "name": "Comparative Constitutional Law",
+    "sessions": 1,
+    "enrollment": 4,
+    "time": ["Wed 17:00-19:50"]
+  },
+  "MAC102.1": {
+    "name": "Introduction to Media Studies",
+    "sessions": 1,
+    "enrollment": 7,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "MAN102.1": {
+    "name": "Introduction to Management",
+    "sessions": 1,
+    "enrollment": 84,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "MAN105.1": {
+    "name": "Corporate Social Responsibility",
+    "sessions": 1,
+    "enrollment": 68,
+    "time": ["Mon 16:00-17:50"]
+  },
+  "MAN302.1": {
+    "name": "Human Resources Management",
+    "sessions": 1,
+    "enrollment": 26,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "MAN303.1": {
+    "name": "Entrepreneurship and Small Business Management",
+    "sessions": 1,
+    "enrollment": 42,
+    "time": ["Wed 10:00-12:50"]
+  },
+  "MAN304.1": {
+    "name": "Organizational Behavior",
+    "sessions": 1,
+    "enrollment": 47,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "MAN328.1": {
+    "name": "Sales Management",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "MAN332.1": {
+    "name": "Business Law",
+    "sessions": 1,
+    "enrollment": 44,
+    "time": ["Tue 17:00-20:50"]
+  },
+  "MAN352.1": {
+    "name": "Consumer Behaviour",
+    "sessions": 1,
+    "enrollment": 73,
+    "time": ["Fri 14:00-16:50"]
+  },
+  "MAN402.1": {
+    "name": "Strategic Management",
+    "sessions": 1,
+    "enrollment": 30,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "MAN406.1": {
+    "name": "Innovation Management",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "MAN443.1": {
+    "name": "International Marketing",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "MAN453.1": {
+    "name": "Project Management",
+    "sessions": 1,
+    "enrollment": 19,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "MATH100": {
+    "name": "Mathematical Skills",
+    "sessions": 2,
+    "enrollment": 108,
+    "time": ["Tue 09:00-11:50", "Mon 09:00-11:50"]
+  },
+  "MATH101": {
+    "name": "Calculus I",
+    "sessions": 2,
+    "enrollment": 192,
+    "time": ["Wed 17:00-19:50", "Thu 13:00-14:50"]
+  },
+  "MATH102.1": {
+    "name": "Calculus II",
+    "sessions": 1,
+    "enrollment": 128,
+    "time": ["Mon 09:00-09:50", "Tue 12:00-13:50"]
+  },
+  "MATH201": {
+    "name": "Linear Algebra",
+    "sessions": 3,
+    "enrollment": 192,
+    "time": ["Mon 14:00-14:50", "Wed 09:00-10:50"]
+  },
+  "MATH205.1": {
+    "name": "Numerical Analysis",
+    "sessions": 1,
+    "enrollment": 107,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "MATH207.1": {
+    "name": "Vector Calculus",
+    "sessions": 1,
+    "enrollment": 15,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "MATH209": {
+    "name": "Discrete Mathematics II",
+    "sessions": 2,
+    "enrollment": 140,
+    "time": ["Thu 09:00-11:50", "Mon 12:00-14:50"]
+  },
+  "MATH306.1": {
+    "name": "Statistical Modelling",
+    "sessions": 1,
+    "enrollment": 30,
+    "time": ["Wed 13:00-15:50"]
+  },
+  "ME206.1": {
+    "name": "Engineering Materials",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Wed 10:00-12:50"]
+  },
+  "ME211.1": {
+    "name": "Strength of Materials II",
+    "sessions": 1,
+    "enrollment": 11,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "ME304.1": {
+    "name": "Fluid Mechanics",
+    "sessions": 1,
+    "enrollment": 17,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "ME411.1": {
+    "name": "Renewable Energy Technology",
+    "sessions": 1,
+    "enrollment": 7,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "NS103.1": {
+    "name": "Biology",
+    "sessions": 1,
+    "enrollment": 16,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "NS112.1": {
+    "name": "Understanding Science and Technology",
+    "sessions": 1,
+    "enrollment": 101,
+    "time": ["Thu 09:00-10:50"]
+  },
+  "NS122.1": {
+    "name": "Physics II",
+    "sessions": 1,
+    "enrollment": 63,
+    "time": ["Tue 14:00-16:50"]
+  },
+  "NS207.1": {
+    "name": "Organic Chemistry",
+    "sessions": 1,
+    "enrollment": 18,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "NS209.1": {
+    "name": "Genetics I",
+    "sessions": 1,
+    "enrollment": 28,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "POLS101.1": {
+    "name": "Introduction to Philosophy",
+    "sessions": 1,
+    "enrollment": 63,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "POLS211.1": {
+    "name": "Politics and the Media",
+    "sessions": 1,
+    "enrollment": 34,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "POLS302.1": {
+    "name": "Contemporary Political Thought",
+    "sessions": 1,
+    "enrollment": 13,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "POLS304.1": {
+    "name": "Politics in BiH",
+    "sessions": 1,
+    "enrollment": 20,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "POLS499.1": {
+    "name": "Graduation Project",
+    "sessions": 2,
+    "enrollment": 1,
+    "time": ["Wed 16:00-17:50"]
+  },
+  "PSY103": {
+    "name": "Introduction to Psychology",
+    "sessions": 2,
+    "enrollment": 73,
+    "time": ["Fri 13:00-15:50", "Fri 09:00-11:50"]
+  },
+  "PSY105": {
+    "name": "Statistics in Psychology",
+    "sessions": 2,
+    "enrollment": 48,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "PSY303.1": {
+    "name": "Personality Psychology",
+    "sessions": 1,
+    "enrollment": 64,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "PSY308.1": {
+    "name": "Social Psychology",
+    "sessions": 1,
+    "enrollment": 59,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "PSY310.1": {
+    "name": "Introduction to Psychopharmacology",
+    "sessions": 1,
+    "enrollment": 41,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "PSY311.1": {
+    "name": "Organizational Psychology",
+    "sessions": 1,
+    "enrollment": 31,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "PSY312.1": {
+    "name": "Clinical Psychology",
+    "sessions": 1,
+    "enrollment": 37,
+    "time": ["Tue 13:00-15:50"]
+  },
+  "PSY329.1": {
+    "name": "Psychometrics",
+    "sessions": 1,
+    "enrollment": 29,
+    "time": ["Thu 17:00-19:50"]
+  },
+  "PSY336.1": {
+    "name": "Psychotherapy and Counseling",
+    "sessions": 1,
+    "enrollment": 39,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "PSY402.1": {
+    "name": "Experimental Psychology",
+    "sessions": 1,
+    "enrollment": 35,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "PSY406.1": {
+    "name": "Positive Psychology",
+    "sessions": 1,
+    "enrollment": 30,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "PSY412.1": {
+    "name": "Abnormal Psychology",
+    "sessions": 1,
+    "enrollment": 32,
+    "time": ["Tue 10:00-12:50"]
+  },
+  "PSY414.1": {
+    "name": "Psychology of Adulthood and Aging",
+    "sessions": 1,
+    "enrollment": 38,
+    "time": ["Fri 15:00-17:50"]
+  },
+  "PSY424.1": {
+    "name": "Social Cognition",
+    "sessions": 1,
+    "enrollment": 33,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "PSY457.1": {
+    "name": "Emotion and Cognition",
+    "sessions": 1,
+    "enrollment": 48,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "PSY458.1": {
+    "name": "Neuropsychology",
+    "sessions": 1,
+    "enrollment": 25,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "PSY490.1": {
+    "name": "Graduation Project",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "PSY496.1": {
+    "name": "Research Activity",
+    "sessions": 1,
+    "enrollment": 7,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "SE211.1": {
+    "name": "Software Construction",
+    "sessions": 1,
+    "enrollment": 109,
+    "time": ["Mon 15:00-17:50"]
+  },
+  "SE308": {
+    "name": "Communication Systems and Networks",
+    "sessions": 2,
+    "enrollment": 122,
+    "time": ["Wed 09:00-11:50", "Tue 12:00-14:50"]
+  },
+  "SE407.1": {
+    "name": "Software Quality Management",
+    "sessions": 1,
+    "enrollment": 56,
+    "time": ["Tue 15:00-17:50"]
+  },
+  "SOC102.1": {
+    "name": "Introduction to Sociology",
+    "sessions": 1,
+    "enrollment": 63,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "SOC311.1": {
+    "name": "Sociology of Religion",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Fri 14:00-16:50"]
+  },
+  "SPS312.1": {
+    "name": "Qualitative Research Methods",
+    "sessions": 1,
+    "enrollment": 8,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "TLT114.1": {
+    "name": "Türk Dilbilgisi II (Şekil Bilgisi)",
+    "sessions": 1,
+    "enrollment": 5,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "TLT212.1": {
+    "name": "Edebiyat Bilgi ve Kuramları (Edebiyata Giriş)",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "TLT214.1": {
+    "name": "Türkçe Dilbilgisi IV (Cümle Bilgisi)",
+    "sessions": 1,
+    "enrollment": 3,
+    "time": ["Wed 12:00-14:50"]
+  },
+  "TLT312.1": {
+    "name": "Osmanlı Türkçesi",
+    "sessions": 1,
+    "enrollment": 3,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "TLT317.1": {
+    "name": "Dil Becerilerinin (Anlama-Anlatma) Öğretimi",
+    "sessions": 1,
+    "enrollment": 4,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "TLT319.1": {
+    "name": "Türk Dili Tarihi",
+    "sessions": 1,
+    "enrollment": 5,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "TLT371.1": {
+    "name": "Öğretmenlik Uygulaması I",
+    "sessions": 1,
+    "enrollment": 1,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "TLT411.1": {
+    "name": "Divan Edebiyatı",
+    "sessions": 1,
+    "enrollment": 8,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "TLT427.1": {
+    "name": "Türk Halk Bilimi",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "TLT471.1": {
+    "name": "Öğretmenlik Uygulaması II",
+    "sessions": 1,
+    "enrollment": 1,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "TT304.1": {
+    "name": "Literary Translation",
+    "sessions": 1,
+    "enrollment": 6,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "TURK111": {
+    "name": "Spoken Turkish I",
+    "sessions": 2,
+    "enrollment": 89,
+    "time": ["Fri 10:00-11:50", "Fri 15:00-16:50"]
+  },
+  "TURK112": {
+    "name": "Spoken Turkish II",
+    "sessions": 10,
+    "enrollment": 301,
+    "time": ["Multiple sessions across Mon-Fri"]
+  },
+  "VA104": {
+    "name": "Language of Drawing II",
+    "sessions": 2,
+    "enrollment": 50,
+    "time": ["Wed 12:00-14:50", "Tue 13:00-15:50"]
+  },
+  "VA211": {
+    "name": "Digital Vector Graphics",
+    "sessions": 2,
+    "enrollment": 59,
+    "time": ["Wed 09:00-11:50", "Fri 09:00-11:50"]
+  },
+  "VA217": {
+    "name": "Graphic Design II",
+    "sessions": 3,
+    "enrollment": 72,
+    "time": ["Tue 15:00-17:50", "Mon 14:00-16:50", "Wed 15:00-17:50"]
+  },
+  "VA304": {
+    "name": "Typography II",
+    "sessions": 2,
+    "enrollment": 57,
+    "time": ["Thu 15:00-17:50"]
+  },
+  "VA306": {
+    "name": "Digital Photo Imaging",
+    "sessions": 2,
+    "enrollment": 81,
+    "time": ["Tue 15:00-17:50", "Mon 09:00-11:50"]
+  },
+  "VA310.1": {
+    "name": "Advanced Drawing I",
+    "sessions": 1,
+    "enrollment": 39,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "VA312": {
+    "name": "Photography",
+    "sessions": 2,
+    "enrollment": 73,
+    "time": ["Thu 09:00-11:50", "Fri 09:00-11:50"]
+  },
+  "VA314.1": {
+    "name": "Non Linear Editing II",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Thu 12:00-14:50"]
+  },
+  "VA315.1": {
+    "name": "Compositing and Digital Effects II",
+    "sessions": 1,
+    "enrollment": 14,
+    "time": ["Tue 12:00-14:50"]
+  },
+  "VA323": {
+    "name": "Illustration Studio",
+    "sessions": 2,
+    "enrollment": 43,
+    "time": ["Mon 15:00-17:50", "Fri 12:00-14:50"]
+  },
+  "VA324.1": {
+    "name": "History of Graphic Design",
+    "sessions": 1,
+    "enrollment": 71,
+    "time": ["Fri 15:00-17:50"]
+  },
+  "VA334.1": {
+    "name": "Packaging Design",
+    "sessions": 1,
+    "enrollment": 47,
+    "time": ["Fri 09:00-11:50"]
+  },
+  "VA341.1": {
+    "name": "Digital Desktop Publishing I",
+    "sessions": 1,
+    "enrollment": 40,
+    "time": ["Wed 09:00-11:50"]
+  },
+  "VA406.1": {
+    "name": "User Experience Design (UX Design) I",
+    "sessions": 1,
+    "enrollment": 41,
+    "time": ["Wed 15:00-17:50"]
+  },
+  "VA416.1": {
+    "name": "Design Studio II",
+    "sessions": 1,
+    "enrollment": 22,
+    "time": ["Mon 09:00-11:50"]
+  },
+  "VA443.1": {
+    "name": "Information Graphics Design",
+    "sessions": 1,
+    "enrollment": 34,
+    "time": ["Tue 09:00-11:50"]
+  },
+  "VA451.1": {
+    "name": "Documentary Film Production",
+    "sessions": 1,
+    "enrollment": 29,
+    "time": ["Mon 12:00-14:50"]
+  },
+  "VA452.1": {
+    "name": "Show Reel Production",
+    "sessions": 1,
+    "enrollment": 25,
+    "time": ["Thu 09:00-11:50"]
+  },
+  "VA455.1": {
+    "name": "3D Design II",
+    "sessions": 1,
+    "enrollment": 21,
+    "time": ["Wed 12:00-14:50"]
+  }
+}
